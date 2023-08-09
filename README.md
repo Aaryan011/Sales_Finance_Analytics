@@ -1,5 +1,10 @@
 # Sales & Finance Analytics of AtliQ Hardwares
 
+# Attachments
+
+--> Video Link :- 9https://www.youtube.com/watch?v=-C8B6O8dZq8
+
+--> LinkedIn Post :-  
 
 
 # Project Description
