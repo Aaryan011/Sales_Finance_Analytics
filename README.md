@@ -20,3 +20,19 @@ the key drivers of sales and allowed us to identify opportunities for improvemen
 global sales performance, and understanding their dynamics helped us tailor our strategies for maximum effectiveness.
 
 Additionally, I delved into our customers' sales performance and market performance versus target.
+
+6️⃣ P&L by Fiscal Year: Analyzing the profit and loss statement across different fiscal years provides a comprehensive overview of AtliQ Hardwares' financial performance. It helps identify revenue, expenses, and net profit or loss trends, enabling strategic decision-making.
+
+7️⃣ P&L by Quarters: Breaking down the profit and loss statement into quarters offers a granular view of the company's financials. This analysis helps uncover seasonality, growth patterns, and areas for improvement or attention.
+
+8️⃣ P&L for Countries: By examining the profit and loss statement on a country level, we gain valuable insights into the performance of AtliQ hardwares across different markets. This report allows us to compare profitability, identify top-performing regions, and optimize business strategies accordingly.
+
+9️⃣ Gross Margin (%) by Quarters: Focusing specifically on gross margin, this report showcases the difference between revenue and the cost of goods sold, expressed as a percentage. By monitoring the gross margin on a quarterly basis, we can evaluate pricing strategies, cost management efforts, and overall profitability trends.
+
+These reports provide a comprehensive understanding of AtliQ Hardwares's financial health and enable data-driven decision-making.
+
+
+
+
+
+
