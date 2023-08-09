@@ -1,5 +1,8 @@
 # Sales & Finance Analytics of AtliQ Hardwares
 
+
+
+# Project Description
 In this project, I took a systematic approach to extract, transform, and load (ETL) the data, followed by solution design and creating connections among tables in data
 modeling. With these foundational steps in place, I utilized powerful tools like Pivot Tables and Power Pivot to generate insightful reports.
 
