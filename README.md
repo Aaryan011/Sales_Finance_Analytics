@@ -4,9 +4,6 @@
 
 --> Video Link :- https://www.youtube.com/watch?v=-C8B6O8dZq8
 
---> LinkedIn Post :-  https://www.linkedin.com/posts/aaryan2301_dataanalytics-excel-codebasics-activity-7095083021048909825-a53j?utm_source=share&utm_medium=member_desktop
-
-
 # Project Description
 In this project, I took a systematic approach to extract, transform, and load (ETL) the data, followed by solution design and creating connections among tables in data
 modeling. With these foundational steps in place, I utilized powerful tools like Pivot Tables and Power Pivot to generate insightful reports.
