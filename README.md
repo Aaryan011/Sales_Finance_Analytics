@@ -1,1 +1,2 @@
-# Sales_Finance_Analytics
+# Sales & Finance Analytics of AtliQ Hardwares
+
