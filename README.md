@@ -2,6 +2,8 @@
 
 ![AtliQ Hardware](images/thu.png)
 
+You can find the presentation video [**here**](https://youtu.be/-C8B6O8dZq8)
+
 Welcome to the AtliQ Hardware Data Analytics project repository! In this project, I took a systematic approach to extract, transform, and load (ETL) the data, followed by solution design and creating connections among tables in data modeling. With these foundational steps in place, I utilized powerful tools like Pivot Tables and Power Pivot to generate insightful reports.
 
 ## Table of Contents
@@ -46,41 +48,66 @@ With a global presence, the company has expanded its business operations signifi
 - I identified the top 10 products with the highest percentage increase in net sales from 2020 to 2021.
 - 📈 These products played a pivotal role in driving revenue growth and making a significant impact on the company's success.
 
-![Data Modeling](images/home.png)
+![Top 10 Products](images/top10prod.png)
 
 ### Division Report
 - I generated a comprehensive report that showcased the net sales data for 2020 and 2021, along with the growth percentage.
 - 📊 This report helped visualize the performance of different divisions within the organization, providing crucial insights for strategic decision-making.
 
-![Data Modeling](images/home.png)
+![Division Report](images/division.png)
 
 ### Quantity Sold Rankings
 - By examining the quantity sold, I determined the top 5 and bottom 5 products in terms of sales volume.
 - 📉 These rankings shed light on the key drivers of sales and allowed us to identify opportunities for improvement.
   
-![Data Modeling](images/home.png)
+![Quantity Sold Rankings](images/qtysold.png)
 
 ### New Product Expansion
 - I explored the new products introduced by Atliq in 2021.
   
-![Data Modeling](images/home.png)
+![New Product Expansion](images/newprod.png)
 
 ### Top 5 Countries
 - Through careful analysis, I discovered the top 5 countries in terms of net sales in 2021.
 - 🌍 These markets were instrumental in driving our global sales performance, and understanding their dynamics helped us tailor our strategies for maximum effectiveness.
   
-![Data Modeling](images/home.png)
+![Top 5 Countries](images/top5co.png)
 
+### P & L by Fiscal Year
+- Analyzing the profit and loss statement across different fiscal years provides a comprehensive overview of AtliQ Hardwares' financial performance.
+- It helps identify revenue, expenses, and net profit or loss trends, enabling strategic decision-making.
+  
+![P & L by Fiscal Year](images/pnlfy.png)
 
-Additionally, I delved into our customers' sales performance and market performance versus target.
+### P & L by Quarters
+- Breaking down the profit and loss statement into quarters offers a granular view of the company's financials.
+- This analysis helps uncover seasonality, growth patterns, and areas for improvement or attention.
+  
+![P & L by Quarters](images/pnlq.png)
 
-6️⃣ P&L by Fiscal Year: Analyzing the profit and loss statement across different fiscal years provides a comprehensive overview of AtliQ Hardwares' financial performance. It helps identify revenue, expenses, and net profit or loss trends, enabling strategic decision-making.
+### P & L for Countries
+- By examining the profit and loss statement on a country level, we gain valuable insights into the performance of AtliQ hardwares across different markets.
+- This report allows us to compare profitability, identify top-performing regions, and optimize business strategies accordingly.
+  
+![P & L for Countries](images/pnlco.png)
 
-7️⃣ P&L by Quarters: Breaking down the profit and loss statement into quarters offers a granular view of the company's financials. This analysis helps uncover seasonality, growth patterns, and areas for improvement or attention.
+### Gross Margin (%) by Quarters
+- Focusing specifically on gross margin, this report showcases the difference between revenue and the cost of goods sold, expressed as a percentage.
+- By monitoring the gross margin on a quarterly basis, we can evaluate pricing strategies, cost management efforts, and overall profitability trends.
+  
+![GM (%) by Quarters](images/gmpct.png)
 
-8️⃣ P&L for Countries: By examining the profit and loss statement on a country level, we gain valuable insights into the performance of AtliQ hardwares across different markets. This report allows us to compare profitability, identify top-performing regions, and optimize business strategies accordingly.
+### Customer Net Sales Performance
+- The insights gained from the analysis of customer net sales performance indicate that the company's sales efforts have been effective in meeting or exceeding its predetermined targets.
+- This suggests that the company's sales team is adept at identifying and capitalizing on opportunities, and its products or services are resonating well with customers.
+  
+![Customer Net Sales Performance](images/customerns.png)
 
-9️⃣ Gross Margin (%) by Quarters: Focusing specifically on gross margin, this report showcases the difference between revenue and the cost of goods sold, expressed as a percentage. By monitoring the gross margin on a quarterly basis, we can evaluate pricing strategies, cost management efforts, and overall profitability trends.
+### Market Performance vs Target
+- The market performance compared to the set targets implies that the company's strategies and initiatives have been successful in capturing a larger share of the market than initially anticipated.
+  
+![Market Performance vs Target](images/marper.png)
+
 
 These reports provide a comprehensive understanding of AtliQ Hardwares's financial health and enable data-driven decision-making.
 
