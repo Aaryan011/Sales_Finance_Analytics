@@ -93,7 +93,8 @@ With a global presence, the company has expanded its business operations signifi
 - By examining the profit and loss statement on a country level, we gain valuable insights into the performance of AtliQ hardwares across different markets.
 - This report allows us to compare profitability, identify top-performing regions, and optimize business strategies accordingly.
   
-![P & L for Countries](images/pnlco.png)
+![P & L for Countries](images/pnlco1.png)
+![P & L for Countries](images/pnlco2.png)
 
 ### Gross Margin (%) by Quarters
 - Focusing specifically on gross margin, this report showcases the difference between revenue and the cost of goods sold, expressed as a percentage.
