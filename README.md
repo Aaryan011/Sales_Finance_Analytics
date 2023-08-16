@@ -59,8 +59,12 @@ With a global presence, the company has expanded its business operations signifi
 ### Quantity Sold Rankings
 - By examining the quantity sold, I determined the top 5 and bottom 5 products in terms of sales volume.
 - 📉 These rankings shed light on the key drivers of sales and allowed us to identify opportunities for improvement.
-  
-![Quantity Sold Rankings](images/qtysold.png)
+
+#### Top 5 Products
+![Quantity Sold Rankings](images/top5prod.png)
+
+#### Bottom 5 Products
+![Quantity Sold Rankings](images/bottom5prod.png)
 
 ### New Product Expansion
 - I explored the new products introduced by Atliq in 2021.
